@@ -51,7 +51,3 @@ This Power BI report is built using **AdventureWorksLT database** to provide ins
 1. Open the `.pbix` file in **Power BI Desktop**.
 2. Explore the data transformations, relationships, and visualizations.
 3. Customize the visuals and interact with the report to get insights.
-
----
-
-Let me know if you need help with uploading it to GitHub or further changes to the file!
